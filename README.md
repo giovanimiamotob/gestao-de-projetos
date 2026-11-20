@@ -13,9 +13,10 @@
 
 Este repositório consolida o desenvolvimento integral de todas as atividades práticas, estudos de caso e avaliações da disciplina de **Gestão de Projetos**, elaboradas a partir das diretrizes, modelos e requisitos do repositório de origem do curso.
 
-O repositório está estruturado em dois grandes pilares de desenvolvimento:
+O repositório está estruturado em três grandes pilares de desenvolvimento:
 1. **Desafio de Gestão de Portfólio e Programas (MetalTech S.A.):** Análise estratégica multicritério de 8 projetos industriais, estruturação de programas, distribuição orçamentária sob teto de R$ 2,5 milhões, nivelamento de recursos humanos e elaboração de roadmap executivo e slide executivo para a diretoria.
 2. **Projeto Integrador de Gestão de Projetos (Avaliação 1 e Avaliação 2):** Planejamento técnico integrado de ponta a ponta (Termo de Abertura, Partes Interessadas, EAP, Cronograma, Custos/EVM, Qualidade, Riscos, Controle de Mudanças, Encerramento e Relatório Acadêmico Consolidado no padrão UniSENAI-SP).
+3. **Atividades Práticas das Aulas 01 a 08 — Projeto FieldOps:** Resolução completa de todas as atividades ao final de cada PDF de aula, aplicadas ao caso real do **Projeto FieldOps** (plataforma *offline-first* de inspeções técnicas em campo). Inclui TAP, EAP, Cronograma (56 itens), Orçamento (35 itens com PERT), Sete Ferramentas da Qualidade, RACI, Plano de Comunicação, Matriz de Riscos 5x5 (16 riscos), Tabela de Aquisições e Matriz de Poder × Interesse dos Stakeholders.
 
 ---
 
@@ -50,6 +51,17 @@ gestao-de-projetos/
 │   │
 │   └── relatorio-final-consolidado.md                     # Relatório Técnico-Acadêmico Completo (Normas UniSENAI)
 │
+├── 03-atividades-aulas-fieldops/                          # MÓDULO 3: Atividades Práticas das Aulas — Projeto FieldOps
+│   ├── README.md                                          # Índice do módulo e mapa de atividades por aula
+│   ├── 01-resumo-aula-01.md                               # Aula 01: Resumo em Markdown — Fundamentos de GP e PMBOK
+│   ├── 02-tap-fieldops.md                                 # Aula 02: TAP completo do Projeto FieldOps
+│   ├── 03-eap-e-requisitos-fieldops.md                    # Aula 03: EAP hierárquica, Dicionário e Requisitos (RF/RNF)
+│   ├── 04-cronograma-fieldops-50-itens.md                 # Aula 04: Cronograma com 56 itens, Gantt e Caminho Crítico
+│   ├── 05-orcamento-e-qualidade-fieldops.md               # Aula 05: Orçamento 35 itens (PERT) + 7 Ferramentas da Qualidade
+│   ├── 06-recursos-humanos-e-comunicacao-fieldops.md      # Aula 06: Organograma, Matriz RACI e Plano de Comunicação
+│   ├── 07-gerenciamento-de-riscos-fieldops.md             # Aula 07: EAR, Matriz 5x5, Estratégias e Contingência (16 riscos)
+│   └── 08-aquisicoes-e-stakeholders-fieldops.md           # Aula 08: Tabela de Aquisições e Matriz Poder × Interesse
+│
 └── docs/                                                  # Documentação Complementar
     └── relatorio-atividades.md                            # Relatório de conformidade e rastreabilidade da entrega
 ```
@@ -75,6 +87,14 @@ gestao-de-projetos/
 | **AVAL-07** | Avaliação 2: Riscos | Matriz 5x5 de probabilidade e impacto com plano de mitigação | Concluído |
 | **AVAL-08** | Avaliação 2: Controle & Encerramento | Governança CCB, KPIs e termo formal de lições aprendidas | Concluído |
 | **REL-FINAL** | Relatório Acadêmico Consolidado | Monografia completa de 13 capítulos no padrão UniSENAI-SP | Concluído |
+| **AULA-01** | Resumo da Aula 01 — Fundamentos GP | Resumo em Markdown com conceitos PMBOK, ciclo de vida, portfólio, programas e estratégia | Concluído |
+| **AULA-02** | TAP do Projeto FieldOps | Termo de Abertura completo com objetivos SMART, escopo, orçamento e stakeholders | Concluído |
+| **AULA-03** | EAP e Requisitos do FieldOps | EAP hierárquica (6 ramos), Dicionário da EAP e 20+ requisitos classificados (RF, RNF, RN, RT) | Concluído |
+| **AULA-04** | Cronograma FieldOps (56 itens) | Cronograma com 56 atividades, 6 marcos, dependências, Gantt Mermaid e caminho crítico | Concluído |
+| **AULA-05** | Orçamento (35 itens) + Qualidade | PERT de 35 itens (R$ 289k) + Ishikawa, Pareto, Fluxograma, Histograma, Carta de Controle e Dispersão | Concluído |
+| **AULA-06** | RACI + Plano de Comunicação | Organograma da equipe, Matriz RACI (20 entregáveis × 10 papéis) e Plano 5W2H com 10 rituais | Concluído |
+| **AULA-07** | Análise de Riscos FieldOps | EAR + Matriz 5x5 + 16 riscos detalhados com estratégias, gatilhos e planos de contingência | Concluído |
+| **AULA-08** | Aquisições + Stakeholders | Tabela de 15 aquisições (R$ 44k) e Matriz Poder × Interesse com 10 stakeholders mapeados | Concluído |
 
 ---
 
